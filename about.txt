@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=l134cBAJCuc&list=PL0Zuz27SZ-6P4dQUsoDatjEGpmBpcOW8V&index=13
+API is deployed to
+https://oleksandrs-technotes-api.onrender.com/
+this front is deployed to
+https://technotes-xt3f.onrender.com
